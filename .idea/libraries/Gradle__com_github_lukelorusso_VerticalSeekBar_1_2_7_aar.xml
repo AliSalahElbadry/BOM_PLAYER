@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.lukelorusso:VerticalSeekBar:1.2.7@aar">
     <CLASSES>
-      <root url="jar://C:/Program Files/Java/jdk-20/caches/transforms-3/9dc95129b7759e354cc4b35b603031d1/transformed/VerticalSeekBar-1.2.7/jars/classes.jar!/" />
-      <root url="file://C:/Program Files/Java/jdk-20/caches/transforms-3/9dc95129b7759e354cc4b35b603031d1/transformed/VerticalSeekBar-1.2.7/res" />
-      <root url="file://C:/Program Files/Java/jdk-20/caches/transforms-3/9dc95129b7759e354cc4b35b603031d1/transformed/VerticalSeekBar-1.2.7/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9dc95129b7759e354cc4b35b603031d1/transformed/VerticalSeekBar-1.2.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9dc95129b7759e354cc4b35b603031d1/transformed/VerticalSeekBar-1.2.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9dc95129b7759e354cc4b35b603031d1/transformed/VerticalSeekBar-1.2.7/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://C:/Program Files/Java/jdk-20/caches/modules-2/files-2.1/com.github.lukelorusso/VerticalSeekBar/1.2.7/ffacd4dc7bdf5bdbec8a4c005cc90851323b8c06/VerticalSeekBar-1.2.7-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.lukelorusso/VerticalSeekBar/1.2.7/ffacd4dc7bdf5bdbec8a4c005cc90851323b8c06/VerticalSeekBar-1.2.7-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
