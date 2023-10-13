@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.exoplayer:exoplayer-decoder:2.16.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://C:/Program Files/Java/jdk-20/caches/transforms-3/feed7358501f76c8b0292268c8c18faf/transformed/exoplayer-decoder-2.16.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://C:/Program Files/Java/jdk-20/caches/transforms-3/feed7358501f76c8b0292268c8c18faf/transformed/exoplayer-decoder-2.16.1/jars/classes.jar!/" />
+      <root url="file://C:/Program Files/Java/jdk-20/caches/transforms-3/feed7358501f76c8b0292268c8c18faf/transformed/exoplayer-decoder-2.16.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/Program Files/Java/jdk-20/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-decoder/2.16.1/6cca9492b12b13ae55d0ed73ff2abc774cb662c/exoplayer-decoder-2.16.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BOM_PLAYER.iml" filepath="$PROJECT_DIR$/.idea/modules/BOM_PLAYER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BOM_PLAYER.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BOM_PLAYER.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BOM_PLAYER.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BOM_PLAYER.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BOM_PLAYER.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BOM_PLAYER.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BOM_PLAYER.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BOM_PLAYER.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
